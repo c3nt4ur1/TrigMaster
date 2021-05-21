@@ -15,6 +15,13 @@ public:
     TrigMaster(QWidget *parent = nullptr);
     ~TrigMaster();
 
+private slots:
+    void on_pb_sin_clicked();
+
+    void on_pb_cos_clicked();
+
+    void on_pb_tan_clicked();
+
 private:
     Ui::TrigMaster *ui;
 };
