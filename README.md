@@ -1,0 +1,2 @@
+# TrigMaster
+A trigonometric calculator
